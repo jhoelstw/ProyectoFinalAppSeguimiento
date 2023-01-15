@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "807020993399",
+    "project_id": "app-seguimiento-e60a2",
+    "storage_bucket": "app-seguimiento-e60a2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:807020993399:android:fe50b03049fa4332b5df72",
+        "android_client_info": {
+          "package_name": "com.example.app_seguimiento"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "807020993399-oqc3963ehv0hfoe2s3f2ii627hshg11g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgugCO6glQ6sgn5Of0kxI0AqBqRpaj9GM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "807020993399-oqc3963ehv0hfoe2s3f2ii627hshg11g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
